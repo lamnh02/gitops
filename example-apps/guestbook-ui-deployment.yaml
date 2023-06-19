@@ -14,7 +14,7 @@ spec:
         app: python-ui
     spec:
       containers:
-      - image: huulam16/python-app:12fbaafd
+      - image: huulam16/python-app:c6430eba
         name: guestbook-ui
         ports:
         - containerPort: 80
